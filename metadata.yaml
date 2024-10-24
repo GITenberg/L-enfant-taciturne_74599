@@ -1,0 +1,31 @@
+_repo: L-enfant-taciturne_74599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Magali-Boisnard
+    alias: Boisnard, Magali
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '55940'
+    url: http://www.gutenberg.org/2009/agents/55940
+description: ''
+gutenberg_issued: '2024-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74599'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k6266953f
+pgterms:marc905: 20220828025713boisnard
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aAmiens :$bEdgar Malfère, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'enfant taciturne
+url: http://www.gutenberg.org/ebooks/74599
